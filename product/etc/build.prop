@@ -1,0 +1,45 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=fleur
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Redmi Note 11S 4G
+ro.product.product.name=derp_fleur
+ro.product.build.date=Tue Oct  3 09:50:06 UTC 2023
+ro.product.build.date.utc=1696326606
+ro.product.build.fingerprint=Redmi/derp_fleur/fleur:13/TQ3A.230901.001/private10030950:userdebug/release-keys
+ro.product.build.id=TQ3A.230901.001
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=1696326747
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/xiaomi/fleur/configs/props/product.prop
+####################################
+# Camera
+ro.hardware.camera=xiaomi
+ro.com.google.lens.oem_camera_package=com.android.camera
+# Zygote preforking
+persist.device_config.runtime_native.usap_pool_enabled=true
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,dtbo,product,system,system_ext,vbmeta,vbmeta_system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
+persist.sys.disable_rescue=true
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# end of file

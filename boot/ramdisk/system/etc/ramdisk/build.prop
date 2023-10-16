@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=fleur
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=Redmi Note 11S 4G
+ro.product.bootimage.name=derp_fleur
+ro.bootimage.build.date=Mon Oct  2 08:21:37 UTC 2023
+ro.bootimage.build.date.utc=1696234897
+ro.bootimage.build.fingerprint=Redmi/derp_fleur/fleur:13/TQ3A.230901.001/private10020821:userdebug/release-keys
+ro.bootimage.build.id=TQ3A.230901.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=1696234904
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file

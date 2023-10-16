@@ -1,0 +1,132 @@
+====================
+    10-03-2023     
+====================
+
+* build/make
+38a7bef  Bump Security String to 2023-10-05  [NurKeinNeid]
+
+
+* device/qcom/sepolicy
+868bfe6  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [NurKeinNeid]
+
+
+* device/qcom/sepolicy_vndr
+bffe8ac  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_device_qcom_sepolicy_vndr into HEAD  [NurKeinNeid]
+
+
+* device/qcom/sepolicy_vndr-legacy-um
+63186c3  Merge branch 'lineage-20.0-legacy-um' of https://github.com/LineageOS/android_device_qcom_sepolicy_vndr into HEAD  [NurKeinNeid]
+
+
+* external/libvpx
+bbf5242  VP8: disallow thread count changes  [James Zern]
+
+
+* external/libxml2
+7c1d6a6  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/external/libxml2 into 13  [NurKeinNeid]
+
+
+* frameworks/base
+bd9a4d0  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/frameworks/base into HEAD  [NurKeinNeid]
+
+
+* frameworks/native
+4b10e43  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/frameworks/native into 13-diff  [NurKeinNeid]
+
+
+* hardware/lineage/interfaces
+f9c1227  interfaces: hash current interfaces  [Alexander Martinz]
+
+
+* hardware/qcom-caf/thermal
+a325dd0  thermal: Add support for sdm660/636  [Edwin Moquete]
+
+
+* manifest
+1e73510  [REVERTME] manifest: Track our fork of external/libvpx  [NurKeinNeid]
+
+
+* packages/apps/Settings
+c9b6a8f  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD  [NurKeinNeid]
+
+
+* packages/apps/ThemePicker
+5f36b6c  Automatic translation import  [LineageOS Infra]
+
+
+* packages/modules/Bluetooth
+3eb00d9  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/packages/modules/Bluetooth into HEAD  [NurKeinNeid]
+
+
+* packages/modules/Wifi
+6188454  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/packages/modules/Wifi into HEAD  [NurKeinNeid]
+
+
+* packages/providers/MediaProvider
+d68e1f8  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD  [NurKeinNeid]
+
+
+* packages/services/Telecomm
+57fdcba  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/packages/services/Telecomm into HEAD  [NurKeinNeid]
+
+
+* tools/apksig
+a9aa7d2  Merge tag 'android-security-13.0.0_r10' of https://android.googlesource.com/platform/tools/apksig into 13  [NurKeinNeid]
+
+
+* vendor/derp
+5a4429c  derp: Update CUSTOM_SECURITY_PATCH for October 2023 Security update  [NurKeinNeid]
+
+
+* vendor/qcom/opensource/commonsys-intf/display
+c5e3a69  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_vendor_qcom_opensource_display-commonsys-intf into HEAD  [NurKeinNeid]
+
+
+* vendor/qcom/opensource/commonsys/display
+d3e7077  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_vendor_qcom_opensource_display-commonsys into HEAD  [NurKeinNeid]
+
+
+* vendor/qcom/opensource/interfaces
+ee4276a  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_vendor_qcom_opensource_interfaces into HEAD  [NurKeinNeid]
+
+
+* vendor/qcom/opensource/usb
+c85906c  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_vendor_qcom_opensource_usb into HEAD  [NurKeinNeid]
+
+
+* vendor/support
+b2b7792  support: Fix clipping in app list layout  [Pranav Vashi]
+
+
+====================
+    10-02-2023     
+====================
+
+* packages/apps/Flash
+23f3933  Flash: Import German translations  [NurKeinNeid]
+
+
+* vendor/fontage
+83e2de0  fontage: clockfonts: Add more ios clock fonts  [minaripenguin]
+
+
+====================
+    10-01-2023     
+====================
+
+* device/qcom/sepolicy-legacy-um
+0573993  Merge branch 'lineage-20.0-legacy-um' of https://github.com/LineageOS/android_device_qcom_sepolicy into HEAD  [NurKeinNeid]
+
+
+* vendor/qcom/opensource/data-ipa-cfg-mgr
+93932d2  Merge branch 'lineage-20.0' of https://github.com/LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr into HEAD  [NurKeinNeid]
+
+
+====================
+    09-30-2023     
+====================
+
+====================
+    09-29-2023     
+====================
+

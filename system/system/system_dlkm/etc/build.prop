@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Redmi
+ro.product.system_dlkm.device=fleur
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=Redmi Note 11S 4G
+ro.product.system_dlkm.name=derp_fleur
+ro.system_dlkm.build.date=Mon Oct  2 08:21:37 UTC 2023
+ro.system_dlkm.build.date.utc=1696234897
+ro.system_dlkm.build.fingerprint=Redmi/derp_fleur/fleur:13/TQ3A.230901.001/private10020821:userdebug/release-keys
+ro.system_dlkm.build.id=TQ3A.230901.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=userdebug
+ro.system_dlkm.build.version.incremental=1696234904
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
