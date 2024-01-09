@@ -54,12 +54,12 @@ ro.product.cpu.abilist64=arm64-v8a
 ro.product.locale=en-GB
 ro.wifi.channels=
 # ro.build.product is obsolete; use ro.product.device
-ro.build.product=fleur
+ro.build.product=fluer
 # Do not try to parse description or thumbprint
-ro.build.description=fleur-user 11 RP1A.200720.011 V13.0.10.0.RKEMIXM release-keys
+ro.build.description=fluer-user 11 RP1A.200720.011 V13.0.10.0.RKEMIXM release-keys
 # end build properties
 #
-# from device/xiaomi/fleur/special_ro.prop
+# from device/xiaomi/fluer/special_ro.prop
 #
 # For special ro override property
 
